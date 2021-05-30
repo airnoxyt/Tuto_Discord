@@ -1,4 +1,7 @@
 {
-"token": "",
-"prefix": ""
+    "token": "",
+    "prefix": ".",
+    "logsChannel" : "",
+    "welcomeChannel": "",
+    "leftChannel": ""
 }
